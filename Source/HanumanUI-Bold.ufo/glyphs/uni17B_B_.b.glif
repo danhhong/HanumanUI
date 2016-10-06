@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni17BB.b" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-250" y="-268" type="qcurve" smooth="yes"/>
+      <point x="-250" y="-501" type="line" smooth="yes"/>
+      <point x="-250" y="-530"/>
+      <point x="-350" y="-530" type="qcurve" smooth="yes"/>
+      <point x="-450" y="-530"/>
+      <point x="-450" y="-501" type="qcurve" smooth="yes"/>
+      <point x="-450" y="-346" type="line"/>
+      <point x="-530" y="-346"/>
+      <point x="-530" y="-278" type="qcurve" smooth="yes"/>
+      <point x="-530" y="-210"/>
+      <point x="-410" y="-210" type="qcurve" smooth="yes"/>
+      <point x="-330" y="-210" type="line" smooth="yes"/>
+      <point x="-250" y="-210"/>
+    </contour>
+  </outline>
+</glyph>

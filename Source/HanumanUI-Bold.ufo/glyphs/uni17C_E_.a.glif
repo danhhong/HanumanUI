@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni17CE.a" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-730" y="1784" type="line"/>
+      <point x="-880" y="1784" type="line"/>
+      <point x="-880" y="1906" type="line"/>
+      <point x="-730" y="1906" type="line"/>
+      <point x="-730" y="2020" type="line"/>
+      <point x="-570" y="2020" type="line"/>
+      <point x="-570" y="1906" type="line"/>
+      <point x="-420" y="1906" type="line"/>
+      <point x="-420" y="1784" type="line"/>
+      <point x="-570" y="1784" type="line"/>
+      <point x="-570" y="1670" type="line"/>
+      <point x="-730" y="1670" type="line"/>
+    </contour>
+  </outline>
+</glyph>
